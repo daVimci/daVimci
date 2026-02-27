@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-I'm **Chia-Wei**, a SPICE Modeling Engineer at Powerchip Semiconductor Manufacturing Coporation, Hsinchu.
+I'm **Chia-Wei**, a SPICE Modeling Engineer at Powerchip Semiconductor Manufacturing Corporation, Hsinchu.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on SPICE model parameters extraction and SPICE model card quality assurance with respect to various PVT corners.
 
 ## Working Experience
-------------
 * 2024/05 - present &nbsp; 📍 **SPICE Modeling Engineer**, PSMC
 
 ## Education
--------------
 * 2020/09 - 2023/06  &nbsp; 🎓 M.Sc., Institue of Physics, National Tsing Hua University
 * 2016/09 - 2020/06  &nbsp; 🎓 B.Sc., Department of Physics, National Chang Hua University of Education
 <!--
