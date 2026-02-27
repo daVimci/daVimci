@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm **Chia-Wei**, a SPICE Modeling Engineer at Powerchip Semiconductor Manufacturing Coporation, Hsinchu.
+
+- 🔭 I’m currently working on ...
+
+## Working Experience
+------------
+* 2024/05 - present &nbsp; 📍 **SPICE Modeling Engineer**, PSMC
+
+## Education
+-------------
+* 2020/09 - 2023/06  &nbsp; 🎓 M.Sc., Institue of Physics, National Tsing Hua University
+* 2016/09 - 2020/06  &nbsp; 🎓 B.Sc., Department of Physics, National Chang Hua University of Education
 <!--
 **daVimci/daVimci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
