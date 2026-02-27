@@ -14,7 +14,7 @@ I'm **Chia-Wei**, a SPICE Modeling Engineer at Powerchip Semiconductor Manufactu
 ## Skills
 [![Programming](https://skillicons.dev/icons?i=fortran,py,cpp,bash)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,neovim,anaconda)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,neovim,anaconda,linux)](https://skillicons.dev)
 <!--
 **daVimci/daVimci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
